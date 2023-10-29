@@ -1,3 +1,5 @@
+package YouTube;
+
 public class Perfect_number
 {
     static int isPerfect(int n)
